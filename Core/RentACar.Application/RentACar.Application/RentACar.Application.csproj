@@ -10,4 +10,9 @@
     <ProjectReference Include="..\..\RentACar.Domain\RentACar.Domain\RentACar.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Features\Command\" />
+    <Folder Include="Features\Queries\" />
+  </ItemGroup>
+
 </Project>
